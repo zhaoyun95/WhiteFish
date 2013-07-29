@@ -1,0 +1,13 @@
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\bin\Debug\WhiteFish.exe.config
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\bin\Debug\WhiteFish.exe
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\bin\Debug\WhiteFish.pdb
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\bin\Debug\fasmdll_managed.dll
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\bin\Debug\GreyMagic.dll
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\obj\Debug\WhiteFish.csprojResolveAssemblyReference.cache
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\obj\Debug\WhiteFish.GUI.Main.resources
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\obj\Debug\WhiteFish.Properties.Resources.resources
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\obj\Debug\WhiteFish.csproj.GenerateResource.Cache
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\obj\Debug\WhiteFish.exe
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\obj\Debug\WhiteFish.pdb
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\bin\Debug\WhiteRain.dll
+C:\Users\Finn\Documents\Visual Studio 2012\Projects\WhiteFish\WhiteFish\bin\Debug\WhiteRain.pdb
