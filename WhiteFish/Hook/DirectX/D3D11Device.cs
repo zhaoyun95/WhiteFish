@@ -1,16 +1,5 @@
 ﻿/*
- * This file is part of the Zeenox Project (C) 2013 Finn Grimpe
- * Copyright 2013 ZeenoxBots, All Rights Reserved
- * 
- * Website: http://zeenoxbots.com
- * License: http://zeenoxbots.com/about/license
- * 
- * $Author: $
- * $Revision: 28 $
- * $Date: 2013-03-31 04:43:30 +0200 (So, 31 Mrz 2013) $
- * $Id: D3D11Device.cs 28 2013-03-31 02:43:30Z  $
- * 
- * Credits: HBRelog
+ * Credits: HighVoltz
  */
 
 using System;

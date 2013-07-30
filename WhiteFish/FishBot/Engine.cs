@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * This file is part of the WhiteRain project (C) 2013 Finn Grimpe
+ * Copyright 2013 Finn Grimpe, All Rights Reserved
+ * 
+ * Github:  https://github.com/finndev/WhiteFish/
+ * Website: https://finn.lu/whitefish/
+ * License: https://finn.lu/license/
+ *
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,8 +34,8 @@ namespace WhiteFish
                     if (Looting.NeedToRun) //Are we already casting fishing?
                         Looting.Pulse();
 
-                    if (Lur.NeedToRun) //Do we have to renew our lur?
-                        Lur.Pulse();
+                    if (Lure.NeedToRun) //Do we have to renew our lur?
+                        Lure.Pulse();
 
                     if (Fishing.NeedToRun) //Do we have to fish?
                         Fishing.Pulse();

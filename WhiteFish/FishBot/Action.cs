@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * This file is part of the WhiteRain project (C) 2013 Finn Grimpe
+ * Copyright 2013 Finn Grimpe, All Rights Reserved
+ * 
+ * Github:  https://github.com/finndev/WhiteFish/
+ * Website: https://finn.lu/whitefish/
+ * License: https://finn.lu/license/
+ *
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,6 +37,7 @@ namespace WhiteFish
 
         internal static void CastItemByItemId(int itemId)
         {
+            //UseMacroText("/use Name") will also work. Change it!
             WoW.Lua.DoString(string.Format(@"for b=1,4 do
     for i=1,36 do 
         itemId = GetContainerItemID(b, i);

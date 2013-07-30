@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * This file is part of the WhiteRain project (C) 2013 Finn Grimpe
+ * Copyright 2013 Finn Grimpe, All Rights Reserved
+ * 
+ * Github:  https://github.com/finndev/WhiteFish/
+ * Website: https://finn.lu/whitefish/
+ * License: https://finn.lu/license/
+ *
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +16,7 @@ using System.Threading;
 
 namespace WhiteFish
 {
-    class Lur
+    class Lure
     {
         internal static int Tries { get; set; }
 

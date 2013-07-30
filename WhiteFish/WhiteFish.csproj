@@ -62,7 +62,7 @@
     <Compile Include="FishBot\States\Fishing.cs" />
     <Compile Include="FishBot\States\Idle.cs" />
     <Compile Include="FishBot\States\Looting.cs" />
-    <Compile Include="FishBot\States\Lur.cs" />
+    <Compile Include="FishBot\States\Lure.cs" />
     <Compile Include="GUI\Main.cs">
       <SubType>Form</SubType>
     </Compile>

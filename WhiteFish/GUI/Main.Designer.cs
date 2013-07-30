@@ -31,6 +31,7 @@
             this.LogBox = new System.Windows.Forms.RichTextBox();
             this.StartStopBtn = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.linkLabel = new System.Windows.Forms.Label();
             this.lurId = new System.Windows.Forms.TextBox();
             this.fishingSpell = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -39,7 +40,6 @@
             this.statusBarText = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel3 = new System.Windows.Forms.ToolStripStatusLabel();
             this.totalLootsText = new System.Windows.Forms.ToolStripStatusLabel();
-            this.linkLabel = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -79,6 +79,17 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Main";
             // 
+            // linkLabel
+            // 
+            this.linkLabel.AutoSize = true;
+            this.linkLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel.Location = new System.Drawing.Point(29, 68);
+            this.linkLabel.Name = "linkLabel";
+            this.linkLabel.Size = new System.Drawing.Size(154, 13);
+            this.linkLabel.TabIndex = 7;
+            this.linkLabel.Text = "(click here to find the Ids)";
+            this.linkLabel.Click += new System.EventHandler(this.linkLabel_Click);
+            // 
             // lurId
             // 
             this.lurId.Location = new System.Drawing.Point(92, 45);
@@ -100,9 +111,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(6, 48);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(44, 13);
+            this.label2.Size = new System.Drawing.Size(51, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Lur Id:";
+            this.label2.Text = "Lure Id:";
             // 
             // label1
             // 
@@ -144,17 +155,6 @@
             this.totalLootsText.Name = "totalLootsText";
             this.totalLootsText.Size = new System.Drawing.Size(81, 17);
             this.totalLootsText.Text = "Total Loots: 0";
-            // 
-            // linkLabel
-            // 
-            this.linkLabel.AutoSize = true;
-            this.linkLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.linkLabel.Location = new System.Drawing.Point(29, 68);
-            this.linkLabel.Name = "linkLabel";
-            this.linkLabel.Size = new System.Drawing.Size(154, 13);
-            this.linkLabel.TabIndex = 7;
-            this.linkLabel.Text = "(click here to find the Ids)";
-            this.linkLabel.Click += new System.EventHandler(this.linkLabel_Click);
             // 
             // Main
             // 
